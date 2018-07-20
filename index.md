@@ -69,14 +69,6 @@ layout: default
 
 以上推荐按排名顺序，不考虑机箱外观。
 
-## 不求最好，但求最贵机型
-
-CPU：最屌的
-显卡：最贵的
-内存：有多少来多少，塞不下了为止
-估计预算：这还预算啥？
-
-随便一个 [workstation](https://www.amazon.com/16X-Core-Workstation-Desktop-Computer-Toughpower/dp/B07FK77NLG/ref=sr_1_23?s=pc&ie=UTF8&qid=1532057061&sr=1-23&keywords=desktop&refinements=p_36%3A2421884011)
 
 ## 必备附件
 
@@ -120,7 +112,7 @@ CPU：最屌的
 
 ## 以上双PC直播操作如果你觉得太麻烦
 
-:arrow_forward: 单PC直播
+:arrow_forward:   单PC直播
 
 * 综合性直播 [CRYSTAL SERIES XTREME](https://www.cyberpowerpc.com/system/Crystal-Series-Xtreme) $2379
 
