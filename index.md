@@ -23,11 +23,8 @@ layout: default
 
 ~~单PC直播~~
 
-<<<<<<< HEAD
 **双PC直播**
-=======
-*双PC直播*
->>>>>>> origin/master
+
 
 
 ### LOL直播机型
@@ -189,9 +186,9 @@ YY直播伴侣
 只告诉我现在熊猫不行了，其他还都不错。
 
 
-<<<<<<< HEAD
+
 ![Octocat](../BootstrapOfPhotographer/assets/images/butter.jpg)
-=======
->>>>>>> origin/master
+
+
 
 
