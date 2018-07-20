@@ -18,22 +18,22 @@ layout: default
 
 > 另一种是双PC直播，一台作为游戏主机，另外一台作为直播主机。这种方式将游戏和直播分开，可以最大发挥游戏主机性能，直播设置完全不会影> 响游戏体验，同时游戏主机所需配置不需要顶配。考虑到你已经有一台主机，而直接升级主机并不是非常可行（1 主板需要更换，2 拆装机你不熟> 练），可以使用你现有主机作为直播机器，另外购买一台非顶配机器和一些配件，可以比较大的节省开支。
 
-```md
+
 所以，
 
 单PC直播
 
 ~~双PC直播~~
-```
+
 
 ## LOL直播机型
 
 仅仅直播LOL的话所需配置大概水平在
 
--CPU：i5
--显卡：1060
--内存：8G
--估计预算：$700-1000
+*CPU：i5
+*显卡：1060
+*内存：8G
+*估计预算：$700-1000
 
 可考虑机型介绍，优缺点分析，及其链接：
 
@@ -53,10 +53,10 @@ layout: default
 
 以直播PUBG为标准
 
--CPU：i7
--显卡：1070
--内存：16G
--估计预算：$1000-1500
+*CPU：i7
+*显卡：1070
+*内存：16G
+*估计预算：$1000-1500
 
 可考虑机型介绍，优缺点分析，及其链接：
 
@@ -83,23 +83,23 @@ CPU：最屌的
 
 ### 可考虑采集卡链接：
 
--[AverMedia Live Gamer Extreme USB 3.0](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $130
+*[AverMedia Live Gamer Extreme USB 3.0](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $130
 
--[Elgato Game Capture HD60](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $150
+*[Elgato Game Capture HD60](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $150
 
 以上两款就是USB采集卡，比较简单好用。
 
--[Elgato Game Capture HD60 Pro](https://www.amazon.com/Elgato-superior-technology-hardware-encoding/dp/B014MQIVPS/?tag=li-org-guide-streaming-us-20)
+*[Elgato Game Capture HD60 Pro](https://www.amazon.com/Elgato-superior-technology-hardware-encoding/dp/B014MQIVPS/?tag=li-org-guide-streaming-us-20)
 
 这一款用起来比较麻烦，但是基本top streamer推荐的比较多。
 
--[音频分接线](https://www.amazon.com/Belkin-Speaker-and-Headphone-Splitter/dp/B000067RC4/?tag=li-org-guide-streaming-us-20) 这个是用来传你的声音给两个PC
+*[音频分接线](https://www.amazon.com/Belkin-Speaker-and-Headphone-Splitter/dp/B000067RC4/?tag=li-org-guide-streaming-us-20) 这个是用来传你的声音给两个PC
 
 ### 摄像头推荐
 
--[Logitec c920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057716&sr=1-3&keywords=logitech+c920&smid=ATVPDKIKX0DER) $70
+*[Logitec c920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057716&sr=1-3&keywords=logitech+c920&smid=ATVPDKIKX0DER) $70
 
--[Logitec c922](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057988&sr=1-3&keywords=logitech+c922) $80
+*[Logitec c922](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057988&sr=1-3&keywords=logitech+c922) $80
 
 其实就下面的专业一点，其他没什么区别。
 
@@ -117,6 +117,22 @@ CPU：最屌的
 
 如果你要唱歌，推荐[Neumann](https://www.amazon.com/s/ref=nb_sb_ss_ime_i_4_11?url=search-alias%3Delectronics&field-keywords=neumann+microphones&sprefix=neumann+mic%2Celectronics%2C137&crid=1DX8S1CTT6SK4&rh=n%3A172282%2Ck%3Aneumann+microphones)
 
+## 以上双PC直播操作如果你觉得太麻烦
+
+:arrow_forward: 单PC直播
+
+*综合性直播 [CRYSTAL SERIES XTREME](https://www.cyberpowerpc.com/system/Crystal-Series-Xtreme) $2379
+
+*LOL直播 [VR READY DEAL GTX 1070 TI](https://www.cyberpowerpc.com/system/VR-Ready-Deal-GTX-1070-Ti) $1595
+
+综合性直播其实还有很多款可以选择，基本上选择顶配的就可以了，i7 8700 + GTX 1080+ 16G RAM + 100GB SSD。
+
+## 单PC 双PC 价格比较与总预算
+
+| Single PC    | Two PC            | Prod  |
+|:-------------|:------------------|:------|
+| $1500+       | $1100+            | LOL   |
+| $2000+       | $1600+            | ALL   |
 
 
 # 软件
@@ -132,6 +148,8 @@ CPU：最屌的
 ### 设置链接
 
 [Video](https://www.youtube.com/watch?v=0bOwHNVZlu4)
+
+
 [Article](https://www.pcworld.com/article/2824444/gaming/the-beginners-guide-to-game-streaming-with-twitch.html)
 
 ### 原理及建议
@@ -165,125 +183,3 @@ YY直播伴侣
 我也不懂，我朋友还没给我回这方面的。
 
 只告诉我现在熊猫不行了，其他还都不错。
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
