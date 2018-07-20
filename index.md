@@ -21,54 +21,54 @@ layout: default
 
 所以，
 
-单PC直播
+~~单PC直播~~
 
-~~双PC直播~~
+*双PC直播*
 
 
-## LOL直播机型
+### LOL直播机型
 
 仅仅直播LOL的话所需配置大概水平在
 
-*CPU：i5
-*显卡：1060
-*内存：8G
-*估计预算：$700-1000
+* CPU：i5
+* 显卡：1060
+* 内存：8G
+* 估计预算：$700-1000
 
 可考虑机型介绍，优缺点分析，及其链接：
 
-1.[CyberPower ZEUS MINI EVO I200](https://www.cyberpowerpc.com/system/Zeus-Mini-EVO-I200) $905，我之前用的就是cyberpower的游戏主机，感觉没有多余的预装软件，性能基本能达到本机配置的应有水平，不会掉帧，降频。
+1. [CyberPower ZEUS MINI EVO I200](https://www.cyberpowerpc.com/system/Zeus-Mini-EVO-I200) $905，我之前用的就是cyberpower的游戏主机，感觉没有多余的预装软件，性能基本能达到本机配置的应有水平，不会掉帧，降频。
 
-2.[XPS Tower](https://deals.dell.com/productdetail/1772) $999, Dell最近有deal的机器，官网品牌打折，优点就是Dell这个品牌问。
+2. [XPS Tower](https://deals.dell.com/productdetail/1772) $999, Dell最近有deal的机器，官网品牌打折，优点就是Dell这个品牌问。
 
-3.[Dell i5680-5842BLU-PUS Inspiron Gaming Desktop](https://www.amazon.com/Dell-i5680-5842BLU-PUS-Inspiron-Gaming-Desktop/dp/B07BR6JJ6S/ref=sr_1_4?s=pc&ie=UTF8&qid=1532048967&sr=1-4&keywords=desktop&refinements=p_n_feature_four_browse-bin%3A2289793011%2Cp_n_feature_seven_browse-bin%3A3012497011) $785，第八代i5，1060显卡，在这个价格很有竞争力
+3. [Dell i5680-5842BLU-PUS Inspiron Gaming Desktop](https://www.amazon.com/Dell-i5680-5842BLU-PUS-Inspiron-Gaming-Desktop/dp/B07BR6JJ6S/ref=sr_1_4?s=pc&ie=UTF8&qid=1532048967&sr=1-4&keywords=desktop&refinements=p_n_feature_four_browse-bin%3A2289793011%2Cp_n_feature_seven_browse-bin%3A3012497011) $785，第八代i5，1060显卡，在这个价格很有竞争力
 
-4.[iBUYPOWER Elite Gaming Desktop PC](https://www.amazon.com/iBUYPOWER-Desktop-i5-8400-Slate-001iV2/dp/B07BTYJ8DB/ref=sr_1_5?s=pc&ie=UTF8&qid=1532048967&sr=1-5&keywords=desktop&refinements=p_n_feature_four_browse-bin%3A2289793011%2Cp_n_feature_seven_browse-bin%3A3012497011) $949，ibuypower作为gaming pc公司，设计这个东西，送一套键鼠，其实稍微有一些溢价，作为最后备选比较合适。
+4. [iBUYPOWER Elite Gaming Desktop PC](https://www.amazon.com/iBUYPOWER-Desktop-i5-8400-Slate-001iV2/dp/B07BTYJ8DB/ref=sr_1_5?s=pc&ie=UTF8&qid=1532048967&sr=1-5&keywords=desktop&refinements=p_n_feature_four_browse-bin%3A2289793011%2Cp_n_feature_seven_browse-bin%3A3012497011) $949，ibuypower作为gaming pc公司，设计这个东西，送一套键鼠，其实稍微有一些溢价，作为最后备选比较合适。
 
-5.[HP Pavilion Premium Gaming Desktop](https://www.amazon.com/HP-Pavilion-Processor-Graphics-Bluetooth/dp/B077RX4RKD/ref=sr_1_2?s=pc&ie=UTF8&qid=1532048967&sr=1-2&keywords=desktop&refinements=p_n_feature_four_browse-bin%3A2289793011%2Cp_n_feature_seven_browse-bin%3A3012497011) $718, 这个价格很好，但是缺点是CPU是上一代，我觉得你如果就只直播LOL，这个可以是单PC直播的最低配。
+5. [HP Pavilion Premium Gaming Desktop](https://www.amazon.com/HP-Pavilion-Processor-Graphics-Bluetooth/dp/B077RX4RKD/ref=sr_1_2?s=pc&ie=UTF8&qid=1532048967&sr=1-2&keywords=desktop&refinements=p_n_feature_four_browse-bin%3A2289793011%2Cp_n_feature_seven_browse-bin%3A3012497011) $718, 这个价格很好，但是缺点是CPU是上一代，我觉得你如果就只直播LOL，这个可以是单PC直播的最低配。
 
 以上推荐按顺序排名，不考虑机箱外观喜好，以及主板可靠性。大部分时候如果买回来不久就坏了，都是运气不太好。现在PC的总体质量还是过得了关的。
 
-## 综合性直播机型
+### 综合性直播机型
 
 以直播PUBG为标准
 
-*CPU：i7
-*显卡：1070
-*内存：16G
-*估计预算：$1000-1500
+* CPU：i7
+* 显卡：1070
+* 内存：16G
+* 估计预算：$1000-1500
 
 可考虑机型介绍，优缺点分析，及其链接：
 
-1.[XPS Tower Special Edition](https://deals.dell.com/productdetail/1776) $1299, XPS Tower的升级版，品质和配置都有保障
+1. [XPS Tower Special Edition](https://deals.dell.com/productdetail/1776) $1299, XPS Tower的升级版，品质和配置都有保障
 
-2.[CYBERPOWER Z370 I7 CONFIGURATOR](https://www.cyberpowerpc.com/system/CyberPower-Z370-i7-Configurator) $1255, 这个性价比在价格区间内是比较高的，同时也能满足高性能要求。
+2. [CYBERPOWER Z370 I7 CONFIGURATOR](https://www.cyberpowerpc.com/system/CyberPower-Z370-i7-Configurator) $1255, 这个性价比在价格区间内是比较高的，同时也能满足高性能要求。
 
-3.[VR READY DEAL GTX 1070 TI](https://www.cyberpowerpc.com/system/VR-Ready-Deal-GTX-1070-Ti) $1595，如果预算允许，强烈推荐这一台。实际价值大概在$2000+，$500 off是完全真实的。对于当前主流网游，基本上都能满足了。
+3. [VR READY DEAL GTX 1070 TI](https://www.cyberpowerpc.com/system/VR-Ready-Deal-GTX-1070-Ti) $1595，如果预算允许，强烈推荐这一台。实际价值大概在$2000+，$500 off是完全真实的。对于当前主流网游，基本上都能满足了。
 
 以上推荐按排名顺序，不考虑机箱外观。
 
-## 不求最好，但求最贵机型
+### 不求最好，但求最贵机型
 
 CPU：最屌的
 显卡：最贵的
@@ -77,33 +77,33 @@ CPU：最屌的
 
 随便一个 [workstation](https://www.amazon.com/16X-Core-Workstation-Desktop-Computer-Toughpower/dp/B07FK77NLG/ref=sr_1_23?s=pc&ie=UTF8&qid=1532057061&sr=1-23&keywords=desktop&refinements=p_36%3A2421884011)
 
-## 必备附件
+### 必备附件
 
 因为需要双PC直播，双PC直播的原理大概是，从游戏主播传图像数据到直播机器，然后用直播机器推流给直播网站，然而正常来说机器只有output图像的能力，没有input能力，所以需要购买一个图像采集开，价格大概在$100左右。
 
-### 可考虑采集卡链接：
+#### 可考虑采集卡链接：
 
-*[AverMedia Live Gamer Extreme USB 3.0](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $130
+* [AverMedia Live Gamer Extreme USB 3.0](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $130
 
-*[Elgato Game Capture HD60](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $150
+* [Elgato Game Capture HD60](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $150
 
 以上两款就是USB采集卡，比较简单好用。
 
-*[Elgato Game Capture HD60 Pro](https://www.amazon.com/Elgato-superior-technology-hardware-encoding/dp/B014MQIVPS/?tag=li-org-guide-streaming-us-20)
+* [Elgato Game Capture HD60 Pro](https://www.amazon.com/Elgato-superior-technology-hardware-encoding/dp/B014MQIVPS/?tag=li-org-guide-streaming-us-20)
 
 这一款用起来比较麻烦，但是基本top streamer推荐的比较多。
 
-*[音频分接线](https://www.amazon.com/Belkin-Speaker-and-Headphone-Splitter/dp/B000067RC4/?tag=li-org-guide-streaming-us-20) 这个是用来传你的声音给两个PC
+* [音频分接线](https://www.amazon.com/Belkin-Speaker-and-Headphone-Splitter/dp/B000067RC4/?tag=li-org-guide-streaming-us-20) 这个是用来传你的声音给两个PC
 
-### 摄像头推荐
+#### 摄像头推荐
 
-*[Logitec c920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057716&sr=1-3&keywords=logitech+c920&smid=ATVPDKIKX0DER) $70
+* [Logitec c920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057716&sr=1-3&keywords=logitech+c920&smid=ATVPDKIKX0DER) $70
 
-*[Logitec c922](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057988&sr=1-3&keywords=logitech+c922) $80
+* [Logitec c922](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057988&sr=1-3&keywords=logitech+c922) $80
 
 其实就下面的专业一点，其他没什么区别。
 
-### 话筒推荐
+#### 话筒推荐
 
 **不推荐**
 
@@ -117,17 +117,17 @@ CPU：最屌的
 
 如果你要唱歌，推荐[Neumann](https://www.amazon.com/s/ref=nb_sb_ss_ime_i_4_11?url=search-alias%3Delectronics&field-keywords=neumann+microphones&sprefix=neumann+mic%2Celectronics%2C137&crid=1DX8S1CTT6SK4&rh=n%3A172282%2Ck%3Aneumann+microphones)
 
-## 以上双PC直播操作如果你觉得太麻烦
+### 以上双PC直播操作如果你觉得太麻烦
 
 :arrow_forward: 单PC直播
 
-*综合性直播 [CRYSTAL SERIES XTREME](https://www.cyberpowerpc.com/system/Crystal-Series-Xtreme) $2379
+* 综合性直播 [CRYSTAL SERIES XTREME](https://www.cyberpowerpc.com/system/Crystal-Series-Xtreme) $2379
 
-*LOL直播 [VR READY DEAL GTX 1070 TI](https://www.cyberpowerpc.com/system/VR-Ready-Deal-GTX-1070-Ti) $1595
+* LOL直播 [VR READY DEAL GTX 1070 TI](https://www.cyberpowerpc.com/system/VR-Ready-Deal-GTX-1070-Ti) $1595
 
 综合性直播其实还有很多款可以选择，基本上选择顶配的就可以了，i7 8700 + GTX 1080+ 16G RAM + 100GB SSD。
 
-## 单PC 双PC 价格比较与总预算
+### 单PC 双PC 价格比较与总预算
 
 | Single PC    | Two PC            | Prod  |
 |:-------------|:------------------|:------|
@@ -141,18 +141,18 @@ CPU：最屌的
 
 [下载](https://github.com/obsproject/obs-studio/releases/download/21.1.2/OBS-Studio-21.1.2-Full-Installer.exe)
 
-## 直播软件及其设置
+### 直播软件及其设置
 
 这里以twitch为例子，简单介绍一下如何设置直播。
 
-### 设置链接
+#### 设置链接
 
 [Video](https://www.youtube.com/watch?v=0bOwHNVZlu4)
 
 
 [Article](https://www.pcworld.com/article/2824444/gaming/the-beginners-guide-to-game-streaming-with-twitch.html)
 
-### 原理及建议
+#### 原理及建议
 
 简单说一下直播原理和建议：
 
@@ -169,7 +169,7 @@ CPU：最屌的
 6. **注意摄像头的开启与关闭，以及直播的开始与结束。**
 
 
-## 直播插件及其设置
+### 直播插件及其设置
 
 YY直播伴侣
 
@@ -183,3 +183,7 @@ YY直播伴侣
 我也不懂，我朋友还没给我回这方面的。
 
 只告诉我现在熊猫不行了，其他还都不错。
+
+
+
+
