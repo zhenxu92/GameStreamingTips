@@ -185,9 +185,9 @@ YY直播伴侣
 
 只告诉我现在熊猫不行了，其他还都不错。
 
+# Cheers
 
-
-![Octocat](../BootstrapOfPhotographer/assets/images/butter.jpg)
+![Octocat](https://i.imgur.com/BnxPJmP.jpg)
 
 
 
