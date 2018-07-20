@@ -110,17 +110,18 @@ a {
   text-align: center;
   background-color: $header-bg-color;
   background-image: url("http://reso3.yiihuu.com/img_1002443.jpg");
+  background-size: cover;
 
   @include large {
-    padding: 5rem 6rem;
+    padding: 10rem 6rem;
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 9rem 4rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 6rem 1rem;
   }
 }
 
