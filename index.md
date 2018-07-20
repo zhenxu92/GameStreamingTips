@@ -30,10 +30,10 @@ layout: default
 
 仅仅直播LOL的话所需配置大概水平在
 
-- CPU：i5
-- 显卡：1060
-- 内存：8G
-- 估计预算：$700-1000
+-CPU：i5
+-显卡：1060
+-内存：8G
+-估计预算：$700-1000
 
 可考虑机型介绍，优缺点分析，及其链接：
 
@@ -53,10 +53,10 @@ layout: default
 
 以直播PUBG为标准
 
-- CPU：i7
-- 显卡：1070
-- 内存：16G
-- 估计预算：$1000-1500
+-CPU：i7
+-显卡：1070
+-内存：16G
+-估计预算：$1000-1500
 
 可考虑机型介绍，优缺点分析，及其链接：
 
@@ -83,23 +83,23 @@ CPU：最屌的
 
 ### 可考虑采集卡链接：
 
-- [AverMedia Live Gamer Extreme USB 3.0](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $130
+-[AverMedia Live Gamer Extreme USB 3.0](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $130
 
-- [Elgato Game Capture HD60](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $150
+-[Elgato Game Capture HD60](https://www.amazon.com/AVerMedia-Extreme-PlayStation-Uncompressed-Latency/dp/B00Y3U01RU/?tag=li-org-guide-streaming-us-20) $150
 
 以上两款就是USB采集卡，比较简单好用。
 
-- [Elgato Game Capture HD60 Pro](https://www.amazon.com/Elgato-superior-technology-hardware-encoding/dp/B014MQIVPS/?tag=li-org-guide-streaming-us-20)
+-[Elgato Game Capture HD60 Pro](https://www.amazon.com/Elgato-superior-technology-hardware-encoding/dp/B014MQIVPS/?tag=li-org-guide-streaming-us-20)
 
 这一款用起来比较麻烦，但是基本top streamer推荐的比较多。
 
-- [音频分接线](https://www.amazon.com/Belkin-Speaker-and-Headphone-Splitter/dp/B000067RC4/?tag=li-org-guide-streaming-us-20) 这个是用来传你的声音给两个PC
+-[音频分接线](https://www.amazon.com/Belkin-Speaker-and-Headphone-Splitter/dp/B000067RC4/?tag=li-org-guide-streaming-us-20) 这个是用来传你的声音给两个PC
 
 ### 摄像头推荐
 
-- [Logitec c920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057716&sr=1-3&keywords=logitech+c920&smid=ATVPDKIKX0DER) $70
+-[Logitec c920](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057716&sr=1-3&keywords=logitech+c920&smid=ATVPDKIKX0DER) $70
 
-- [Logitec c922](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057988&sr=1-3&keywords=logitech+c922) $80
+-[Logitec c922](https://www.amazon.com/Logitech-C922x-Pro-Stream-Webcam/dp/B01LXCDPPK/ref=sr_1_3?s=electronics&ie=UTF8&qid=1532057988&sr=1-3&keywords=logitech+c922) $80
 
 其实就下面的专业一点，其他没什么区别。
 
