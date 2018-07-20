@@ -27,7 +27,7 @@ layout: default
 
 
 
-### LOL直播机型
+## LOL直播机型
 
 仅仅直播LOL的话所需配置大概水平在
 
@@ -50,7 +50,7 @@ layout: default
 
 以上推荐按顺序排名，不考虑机箱外观喜好，以及主板可靠性。大部分时候如果买回来不久就坏了，都是运气不太好。现在PC的总体质量还是过得了关的。
 
-### 综合性直播机型
+## 综合性直播机型
 
 以直播PUBG为标准
 
@@ -69,7 +69,7 @@ layout: default
 
 以上推荐按排名顺序，不考虑机箱外观。
 
-### 不求最好，但求最贵机型
+## 不求最好，但求最贵机型
 
 CPU：最屌的
 显卡：最贵的
@@ -78,7 +78,7 @@ CPU：最屌的
 
 随便一个 [workstation](https://www.amazon.com/16X-Core-Workstation-Desktop-Computer-Toughpower/dp/B07FK77NLG/ref=sr_1_23?s=pc&ie=UTF8&qid=1532057061&sr=1-23&keywords=desktop&refinements=p_36%3A2421884011)
 
-### 必备附件
+## 必备附件
 
 因为需要双PC直播，双PC直播的原理大概是，从游戏主播传图像数据到直播机器，然后用直播机器推流给直播网站，然而正常来说机器只有output图像的能力，没有input能力，所以需要购买一个图像采集开，价格大概在$100左右。
 
@@ -118,7 +118,7 @@ CPU：最屌的
 
 如果你要唱歌，推荐[Neumann](https://www.amazon.com/s/ref=nb_sb_ss_ime_i_4_11?url=search-alias%3Delectronics&field-keywords=neumann+microphones&sprefix=neumann+mic%2Celectronics%2C137&crid=1DX8S1CTT6SK4&rh=n%3A172282%2Ck%3Aneumann+microphones)
 
-### 以上双PC直播操作如果你觉得太麻烦
+## 以上双PC直播操作如果你觉得太麻烦
 
 :arrow_forward: 单PC直播
 
@@ -128,7 +128,7 @@ CPU：最屌的
 
 综合性直播其实还有很多款可以选择，基本上选择顶配的就可以了，i7 8700 + GTX 1080+ 16G RAM + 100GB SSD。
 
-### 单PC 双PC 价格比较与总预算
+## 单PC 双PC 价格比较与总预算
 
 | Single PC    | Two PC            | Prod  |
 |:-------------|:------------------|:------|
@@ -142,7 +142,7 @@ CPU：最屌的
 
 [下载](https://github.com/obsproject/obs-studio/releases/download/21.1.2/OBS-Studio-21.1.2-Full-Installer.exe)
 
-### 直播软件及其设置
+## 直播软件及其设置
 
 这里以twitch为例子，简单介绍一下如何设置直播。
 
@@ -170,7 +170,7 @@ CPU：最屌的
 6. **注意摄像头的开启与关闭，以及直播的开始与结束。**
 
 
-### 直播插件及其设置
+## 直播插件及其设置
 
 YY直播伴侣
 
