@@ -177,7 +177,9 @@ YY直播伴侣
 
 只告诉我现在熊猫不行了，其他还都不错。
 
-#  :thumbsup:  Cheers  
+# :thumbsup:    Cheers 
+
+Be sure to add [Ebates](https://www.ebates.com/r/ZHENXU18?eeid=29041&utm_source=extension&utm_medium=raf_link) to your Chrome, save you up to 25%.
 
 ![Octocat](https://i.imgur.com/BnxPJmP.jpg)
 
